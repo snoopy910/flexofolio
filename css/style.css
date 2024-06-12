@@ -227,6 +227,19 @@ textarea {
   }
 }
 
+.text-primary-strong {
+  color: #fff;
+  font-size: 2.8rem;
+  text-align: center;
+  width: 100%;
+  line-height: 1.6;
+}
+@media only screen and (max-width: 37.5em) {
+  .text-primary {
+    font-size: 2rem;
+  }
+}
+
 .d-none {
   display: none;
 }
