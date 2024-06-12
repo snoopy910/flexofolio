@@ -382,7 +382,7 @@ textarea {
   overflow: hidden;
 }
 .projects__row-img {
-  width: 100%;
+  width: 80%;
   display: block;
   object-fit: cover;
 }
